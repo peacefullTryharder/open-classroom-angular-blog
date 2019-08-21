@@ -1,0 +1,23 @@
+.post-header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-content
+{
+    font-size: 12pt;
+}
+
+.post-vote button
+{
+    margin: 6px;
+    margin-top: 10px;
+}
+
+.post-date
+{
+    color: #6B6B6B;
+    font-size: 18pt;
+}
